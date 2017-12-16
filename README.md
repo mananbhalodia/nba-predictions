@@ -1,2 +1,2 @@
 # nba-predictions
-Jupyter notebook that gets predictions of declining performance of nba players. 
+Jupyter notebook that analyzes changing criteria required to become MVP in the NBA. 
